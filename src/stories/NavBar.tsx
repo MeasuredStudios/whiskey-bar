@@ -5,7 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 
 import brand from '../assets/img/brand.svg';
 
-const SwiggedNav = () => (
+const NavBar = () => (
   <Navbar expand="lg" variant="light" bg="white">
     <Container fluid>
       <Navbar.Brand href="">
@@ -36,4 +36,4 @@ const SwiggedNav = () => (
   </Navbar>
 );
 
-export default SwiggedNav;
+export default NavBar;
