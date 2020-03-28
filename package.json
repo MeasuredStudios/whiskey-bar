@@ -65,7 +65,7 @@
     "eslint-plugin-simple-import-sort": "5.0.2",
     "eslint-plugin-testing-library": "2.2.3",
     "husky": "4.2.3",
-    "lint-staged": "10.0.8",
+    "lint-staged": "10.0.9",
     "node-sass": "4.13.1",
     "prettier": "1.19.1",
     "ts-jest": "25.2.1"
