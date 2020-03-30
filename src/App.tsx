@@ -1,8 +1,10 @@
-import React from 'react';
-import NavBar from './stories/NavBar';
-import '../src/assets/scss/theme.scss';
+import './assets/scss/theme.scss';
 
-function App() {
+import React from 'react';
+
+import NavBar from './stories/NavBar';
+
+function App(): JSX.Element {
   return (
     <div className="App">
       <NavBar />
