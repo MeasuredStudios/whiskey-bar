@@ -3,6 +3,7 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavbarToggle from 'react-bootstrap/NavbarToggle';
+import { X } from 'react-feather';
 
 import brand from '../assets/img/brand.svg';
 
@@ -22,7 +23,7 @@ const NavBar = (): JSX.Element => (
       >
         <span className="navbar-toggler-icon" />
       </NavbarToggle>
-      <Navbar.Collapse id="navbarCollapse">
+      <Navbar.Collapse id="navbarCollapse" className="collapse">
         <Navbar.Toggle
           as="button"
           type="button"
@@ -31,7 +32,7 @@ const NavBar = (): JSX.Element => (
           aria-controls="navbarCollapse"
           aria-expanded="false"
         >
-          <i className="fe fe-x" />
+          <X />
         </Navbar.Toggle>
         <Nav as="ul" navbar className="ml-auto">
           <Nav.Item as="li">
