@@ -68,7 +68,7 @@
     "husky": "4.2.5",
     "lint-staged": "10.1.6",
     "node-sass": "4.13.1",
-    "prettier": "2.0.4",
+    "prettier": "2.0.5",
     "ts-jest": "25.4.0"
   },
   "scripts": {
