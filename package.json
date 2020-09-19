@@ -45,7 +45,7 @@
     "@types/bootstrap": "4.5.0",
     "@testing-library/user-event": "12.1.5",
     "@types/eslint-plugin-prettier": "3.1.0",
-    "@types/node": "12.12.58",
+    "@types/node": "12.12.62",
     "@types/jest": "26.0.14",
     "@types/node-sass": "4.11.1",
     "@types/prettier": "2.1.1",
