@@ -48,7 +48,7 @@
     "@types/node": "12.20.0",
     "@types/jest": "26.0.20",
     "@types/node-sass": "4.11.1",
-    "@types/prettier": "2.2.0",
+    "@types/prettier": "2.2.1",
     "@types/prop-types": "15.7.3",
     "@types/react": "17.0.1",
     "@types/react-bootstrap": "1.0.1",
