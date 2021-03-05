@@ -69,7 +69,7 @@
     "lint-staged": "10.5.4",
     "node-sass": "5.0.0",
     "prettier": "2.2.1",
-    "ts-jest": "26.5.2"
+    "ts-jest": "26.5.3"
   },
   "scripts": {
     "start": "react-scripts start",
