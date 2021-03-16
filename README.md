@@ -66,7 +66,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Adding Storybook UI
 
-https://gist.github.com/shilman/bc9cbedb2a7efb5ec6710337cbd20c0c
+https://storybook.js.org/docs/react/get-started/introduction
 
 ### Adding bootstrap
 
